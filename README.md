@@ -35,6 +35,8 @@ inverse = np.linalg.inv(value1)
 print(inverse)
 ```
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/94164665/153345505-edefcb7c-9ab5-4056-a9f4-5af7bdb40684.png)
+
 
 ## RESULT:
 The above program is successfully find the inverse of the nested array.
